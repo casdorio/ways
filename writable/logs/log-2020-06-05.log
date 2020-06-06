@@ -1,0 +1,30 @@
+CRITICAL - 2020-06-05 16:10:24 --> Call to a member function model() on null
+#0 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(910): App\Controllers\About->index()
+#1 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#2 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\PROJETOS\framework-4.0.2\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-05 16:10:25 --> Call to a member function model() on null
+#0 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(910): App\Controllers\About->index()
+#1 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#2 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\PROJETOS\framework-4.0.2\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-05 16:10:25 --> Call to a member function model() on null
+#0 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(910): App\Controllers\About->index()
+#1 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#2 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\PROJETOS\framework-4.0.2\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-05 16:10:45 --> Call to undefined method App\Libraries\Template::build()
+#0 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(910): App\Controllers\About->index()
+#1 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#2 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\PROJETOS\framework-4.0.2\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-06-05 16:12:50 --> Call to undefined method App\Libraries\Template::build()
+#0 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(910): App\Controllers\About->index()
+#1 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\About))
+#2 G:\PROJETOS\framework-4.0.2\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 G:\PROJETOS\framework-4.0.2\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
